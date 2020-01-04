@@ -31,7 +31,8 @@ class Song
     @@genres.each do |i|
       hash << i 
       hash 
-    end 
+    end
+  end
     
   
   
