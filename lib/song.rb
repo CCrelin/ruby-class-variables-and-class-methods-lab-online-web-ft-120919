@@ -14,8 +14,8 @@ class Song
     @@artists << artist
   end
   
-  def count
-    @@count 
+  def count(count)
+   count = @@count 
   end 
   
   
