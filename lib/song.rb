@@ -32,7 +32,7 @@ class Song
       hash ={}
       
       @@genres.each do |i|
-        if [ihash]
+        if hash[i]
           hash[i] += 1
         else 
           hash[i] = 1 
