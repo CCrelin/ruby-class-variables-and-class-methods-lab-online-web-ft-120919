@@ -32,6 +32,7 @@ class Song
       hash ={}
       
       @@genres.each do |i|
+      
       end
     
   
